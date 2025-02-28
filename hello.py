@@ -3,4 +3,4 @@ import getpass
 usr = getpass.getuser()
 
 print("Hello, " + usr + ".")
-print("Thanks for cloning my repo!")
+print("Don't ever clone my repo again!")
